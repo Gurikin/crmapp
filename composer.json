@@ -1,6 +1,15 @@
 {
+    "minimum-stability": "stable",
     "require": {
         "codeception/codeception": "*",
-        "fzaninotto/faker": "*"
-    }
+        "fzaninotto/faker": "*",
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.14"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
