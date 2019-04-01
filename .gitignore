@@ -16,11 +16,9 @@ Thumbs.db
 /vendor/yiisoft
 
 # yii dirs
-/config
 /mail
 /runtime
 /vagrant
-/web/assets
 
 # composer itself is not needed
 composer.phar
